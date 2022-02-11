@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINKTOENTITY", "LINKTOENTITY\LINKTOENTITY.csproj", "{353E6E9C-874F-4A5A-828B-5A2004C3802E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353E6E9C-874F-4A5A-828B-5A2004C3802E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353E6E9C-874F-4A5A-828B-5A2004C3802E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353E6E9C-874F-4A5A-828B-5A2004C3802E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353E6E9C-874F-4A5A-828B-5A2004C3802E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E40F1F6-FF6D-4D4A-A27A-28637FF3B2F8}
+	EndGlobalSection
+EndGlobal
