@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LINKTOENTITY
+namespace LINKTOXML
 {
 
 
